@@ -30,3 +30,11 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 [Vercel](https://vercel.com) - Deploy web projects with the best frontend developer experience and highest end-user performance.
 
 [Tiiny.host](https://tiiny.host) - Tiiny Host is the simplest way to share your web project. Get feedback faster.
+
+[InfinityFree](https://infinityfree.net/) - InfinityFree is free forever! There is no time limit for free hosting. You can sign up whenever you want and use it for as long as you want! Some people have been hosting their websites with them for years. It is completely free, no credit card required, no time limits and no hidden fees.
+
+[ByetHost](https://byet.host/) - ByetHost is the child product of British web hosting provider iFastNet. It offers free shared hosting as well as premium hosting solutions, including shared hosting, VPS, email hosting, dedicated servers, and domain registration.
+
+[000WebHost](https://www.000webhost.com/) -  000webhost is a free website hosting solution that provides an array of valuable features, including a website builder, WordPress support, and no ads.
+
+[GoogieHost](https://googiehost.com/) - GoogieHost is a web hosting company that provides free hosting to customers. They also have premium hosting options, which provide you with some added features. Their hosting is all shared, which is not surprising, but it is quite reliable.
