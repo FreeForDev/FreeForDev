@@ -8,6 +8,7 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 # Static Web Host
 
 [Vercel](https://vercel.com) - Deploy web projects with the best frontend developer experience and highest end-user performance.
+
 [Netlify](https://netlify.com) - A powerful serverless platform with an intuitive git-based workflow. Automated deployments, shareable previews, and much more. Get started for free!
 [GitHub Pages](https://pages.github.com) - Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 [Gitlab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages) - GitLab's Pages feature allows you to create websites for your GitLab projects, groups, or user account.
