@@ -19,6 +19,8 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 
 [Gitlab Pages](https://about.gitlab.com/stages-devops-lifecycle/pages) - GitLab's Pages feature allows you to create websites for your GitLab projects, groups, or user account.
 
+[MDB Go](https://mdbootstrap.com/docs/standard/cli) - Create, deploy and host anything with a single command
+
 [Netlify](https://netlify.com) - A powerful serverless platform with an intuitive git-based workflow. Automated deployments, shareable previews, and much more. Get started for free!
 
 [Render](https://render.com) - Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks and auto deploys from Git.
