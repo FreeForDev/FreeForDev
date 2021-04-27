@@ -26,3 +26,5 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 [Surge](https://surge.sh) - Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.
 
 [Vercel](https://vercel.com) - Deploy web projects with the best frontend developer experience and highest end-user performance.
+
+[Tiiny.host](https://tiiny.host) - Tiiny Host is the simplest way to share your web project. Get feedback faster.
