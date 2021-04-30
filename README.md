@@ -39,6 +39,8 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 
 [Heroicons](https://heroicons.com) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 
+[Icons - Google Fonts](https://fonts.google.com/icons) - Google Fonts is a library of 1052 free licensed font families and APIs for conveniently using the fonts via CSS and Android. We also provide delightful, beautifully crafted icons for common actions and items.
+
 [Ionicons](https://ionicons.com/) - Ionicons is an open-sourced and MIT licensed icon pack.
 
 [Octicons](https://primer.style/octicons) - Your project. GitHub's icons.
