@@ -30,3 +30,15 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 [Vercel](https://vercel.com) - Deploy web projects with the best frontend developer experience and highest end-user performance.
 
 [Tiiny.host](https://tiiny.host) - Tiiny Host is the simplest way to share your web project. Get feedback faster.
+
+# Icon Fonts
+
+[Boostrap Icons](https://icons.getbootstrap.com) - Official open source SVG icon library for Bootstrap
+
+[Font Awesome](https://fontawesome.com) - The world’s most popular and easiest to use icon set just got an upgrade. More icons. More styles. More Options.
+
+[Heroicons](https://heroicons.com) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+
+[Ionicons](https://ionicons.com/) - Ionicons is an open-sourced and MIT licensed icon pack.
+
+[Octicons](https://primer.style/octicons) - Your project. GitHub's icons.
