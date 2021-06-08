@@ -44,3 +44,21 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 [Ionicons](https://ionicons.com/) - Ionicons is an open-sourced and MIT licensed icon pack.
 
 [Octicons](https://primer.style/octicons) - Your project. GitHub's icons.
+
+# Git as a Service
+
+[GitHub](https://gitHub.com) - GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.
+
+[Gitlab](https://gitlab.com/) - Our open DevOps platform is a single application for unparalleled collaboration, visibility, and development velocity.
+
+[Bit Bucket](https://bitbucket.org) - Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
+
+[CodeBase](http://www.codebasehq.com/) - Codebase is the ultimate code hosting platform for professional development teams. Includes source tree browser, in-line comments, notes, and a powerful ticketing system.
+
+[CodeBerg](https://codeberg.org/) - Codeberg is founded as a Non-Profit Organization, with the objective to give the Open-Source code that is running our world a safe and friendly home, and to ensure that free code remains free and secure forever.
+
+[CodeCov](https://codecov.io/) - Codecov is the leading, dedicated code coverage solution. Try Codecov for free now to help your developers find untested code and deploy changes with confidence.
+
+[SourceForge](https://sourceforge.net) - Free, secure and fast downloads from the largest Open Source applications and software directory.
+
+[Gitea](https://www.gitea.com/) - Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go.
